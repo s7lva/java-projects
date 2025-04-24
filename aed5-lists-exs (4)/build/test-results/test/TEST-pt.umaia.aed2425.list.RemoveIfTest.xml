@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.umaia.aed2425.list.RemoveIfTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2025-04-24T16:18:23" hostname="DIOGOSILVA" time="0.622">
+  <properties/>
+  <testcase name="testRemoveIfNoElementsRemoved()" classname="pt.umaia.aed2425.list.RemoveIfTest" time="0.014"/>
+  <testcase name="testRemoveIfContainsLetterA()" classname="pt.umaia.aed2425.list.RemoveIfTest" time="0.607">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
